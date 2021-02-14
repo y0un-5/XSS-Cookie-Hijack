@@ -1,0 +1,2 @@
+# XSS Cookie Hijack
+ Example
